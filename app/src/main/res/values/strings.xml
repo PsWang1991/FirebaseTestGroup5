@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Firebase Practice PS</string>
+    <string-array name="tags">
+        <item>@string/tag_beauty</item>
+        <item>@string/tag_gossiping</item>
+        <item>@string/tag_joke</item>
+        <item>@string/tag_schoolLife</item>
+    </string-array>
+    <string name="tag_beauty">Beauty</string>
+    <string name="tag_gossiping">Gossiping</string>
+    <string name="tag_joke">Joke</string>
+    <string name="tag_schoolLife">SchoolLife</string>
+</resources>

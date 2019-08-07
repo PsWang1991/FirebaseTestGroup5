@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "432595162088",
+    "firebase_url": "https://v-identity.firebaseio.com",
+    "project_id": "v-identity",
+    "storage_bucket": "v-identity.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:432595162088:android:c4e3e7b847b56007",
+        "android_client_info": {
+          "package_name": "com.pinhsiang.firebasepracticeps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "432595162088-cj7gpnb1bfqdit38ufjv76q3eitrrc7l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJYz_hWnyDU6z5vUYgOkT2o2EKAfdcPmo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "432595162088-cj7gpnb1bfqdit38ufjv76q3eitrrc7l.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "432595162088-tds7s5avdbeb3505imvf9hmlvmg0o0u6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.VIdentity"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
